@@ -6,6 +6,6 @@ cask 'xymaxhub' do
   name 'xymaxhub'
   homepage 'https://www.maxhub.com/'
 
-  app '传屏助手.app'
+  app '/Applications/传屏助手.app'
 
 end
