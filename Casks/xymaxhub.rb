@@ -7,6 +7,6 @@ cask 'xymaxhub' do
   name '传屏助手'
   homepage 'https://www.maxhub.com/'  # 替换为应用的实际主页
 
-  app '/Volumes/MAXHUBShare/传屏助手.app'
+  app '/Volumes/MAXHUBShare/MAXHUBShare.app'
 
 end
