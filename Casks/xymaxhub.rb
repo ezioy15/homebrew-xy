@@ -4,9 +4,9 @@ cask 'xymaxhub' do
 
   # 替换为实际的下载URL
   url "http://172.18.1.123/app/xymaxhub.dmg"
-  name '传屏助手'
+  name 'MAXHUBShare'
   homepage 'https://www.maxhub.com/'  # 替换为应用的实际主页
 
-  app '/Volumes/MAXHUBShare/MAXHUBShare.app'
+  app 'MAXHUBShare.app'
 
 end
