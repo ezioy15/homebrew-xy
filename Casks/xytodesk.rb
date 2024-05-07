@@ -4,7 +4,6 @@ cask 'xytodesk' do
 
   url 'http://hb.ezioy.com/app/ToDesk_4.2.2.pkg'
   name 'xytodesk'
-  homepage 'https://www.todesk.com/'
 
   pkg 'ToDesk_4.2.2.pkg'
 
