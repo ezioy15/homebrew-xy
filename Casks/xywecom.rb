@@ -4,7 +4,6 @@ cask 'xywecom' do
 
   url 'http://hb.ezioy.com/app/xywecom.dmg'
   name 'xywecom'
-  homepage 'https://work.weixin.qq.com/'
 
   app '企业微信.app'
 
