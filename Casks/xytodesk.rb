@@ -2,7 +2,7 @@ cask 'xytodesk' do
   version '1.0'
   sha256 :no_check
 
-  url 'http://172.18.1.123/app/ToDesk_4.2.2.pkg'
+  url 'http://hb.ezioy.com/app/ToDesk_4.2.2.pkg'
   name 'xytodesk'
   homepage 'https://www.todesk.com/'
 
