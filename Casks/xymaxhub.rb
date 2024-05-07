@@ -3,7 +3,7 @@ cask 'xymaxhub' do
   sha256 :no_check  # 必须替换为实际的SHA-256校验和
 
   # 替换为实际的下载URL
-  url "http://172.18.1.123/app/xymaxhub.dmg"
+  url "http://hb.ezioy.com/app/xymaxhub.dmg"
   name 'MAXHUBShare'
   homepage 'https://www.maxhub.com/'  # 替换为应用的实际主页
 
